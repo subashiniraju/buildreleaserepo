@@ -1,2 +1,2 @@
-rgname="Releserg"
+rgname="Brg"
 location="West US"
